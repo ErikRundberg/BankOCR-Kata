@@ -1,0 +1,35 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0091e09f_002Db76b_002D4ce9_002Db368_002D8a1f1a0c21af/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test_123456789 #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6B557EA8-E0F9-4C0F-A6DF-0655A89DBC46::net6.0::BankOCR.BankTest.Test_123456789&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6B557EA8-E0F9-4C0F-A6DF-0655A89DBC46::net6.0::BankOCR.BankTest.Text_Broken_123456789&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6B557EA8-E0F9-4C0F-A6DF-0655A89DBC46::net6.0::BankOCR.BankTest.Text_AMB_88888888&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=291dee1d_002D4b73_002D45a8_002Da52c_002D4741b7500d73/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BankTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6B557EA8-E0F9-4C0F-A6DF-0655A89DBC46::net6.0::BankOCR.BankTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=39e0b4eb_002D3316_002D4d6d_002Dbe05_002Dd4cf10e7de35/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test_123456789 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6B557EA8-E0F9-4C0F-A6DF-0655A89DBC46::net6.0::BankOCR.BankTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4b7bc099_002D2ffd_002D4c79_002D9ca8_002D5d4b0482116a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BankTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6B557EA8-E0F9-4C0F-A6DF-0655A89DBC46::net6.0::BankOCR.BankTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6c7b3ebd_002Ddb9f_002D4ac4_002Db23a_002D8e92e03e30e7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test_123456789 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6B557EA8-E0F9-4C0F-A6DF-0655A89DBC46::net6.0::BankOCR.BankTest.Test_123456789&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f64da88a_002Dc997_002D4c3b_002D83bc_002Ddf2749c90cd0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test_123456789" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6B557EA8-E0F9-4C0F-A6DF-0655A89DBC46::net6.0::BankOCR.BankTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	</wpf:ResourceDictionary>
